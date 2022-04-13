@@ -1,15 +1,15 @@
-pwd - display path of current working directory
-cd - change directory
-cd .. - navigate to parent directory
-ls - list directory content
-ls -la - list detailed directory content including hidden files
-mkdir - make directory
-clear - clear the command line window
-rm - delete file
-rm -r - delete directory
-rm -f - force delete file, add r to force delete a directory
-mv - rename file
-cp - copy file to directory 
-touch - create file
-ssh username@host- establish an SSH connection to host with user
-find dir name file - find all files named file inside dir 
+pwd - display path of current working directory,
+cd - change directory,
+cd .. - navigate to parent directory,
+ls - list directory content,
+ls -la - list detailed directory content including hidden files,
+mkdir - make directory,
+clear - clear the command line window,
+rm - delete file,
+rm -r - delete directory,
+rm -f - force delete file, add r to force delete a directory,
+mv - rename file,
+cp - copy file to directory, 
+touch - create file,
+ssh username@host- establish an SSH connection to host with user,
+find dir name file - find all files named file inside dir, 
